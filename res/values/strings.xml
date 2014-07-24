@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutController</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtViewDef">Selected View: </string>
+    <string name="txtAlignLeft">LEFT</string>
+    <string name="txtAlignCenter">CENTER</string>
+    <string name="txtAlignRight">RIGHT</string>
+
+</resources>
